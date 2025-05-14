@@ -3,5 +3,9 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/my-experimental-blog/',
   plugins: [vue()],
+  build: {
+    outDir: 'dist',
+  },
 })
