@@ -1,5 +1,16 @@
-# Vue 3 + TypeScript + Vite
+# 一次实验性的BLOG搭建
+> 记一次经典项目开发实战
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 基于:Vue3+TypeScript
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+ ---
+
+### 本人是彻头彻尾的前端新手，才学习前端不到半年时间，又菜又爱写
+
+**曾经多次想过要至少写出一个博客项目，但奈何学校的日程实在严丝合缝，每天能挤出来学习的时间本就不多，就连这么简单的项目都是翘课写完的**
+
+**当然，主要还是怪我自己菜，但我想，还是有很大纪念意义吧，记我的一次成长**
+
+希望自己在不久的将来能参与到开源的协作中去！
+
+![直接用我写邮件喜欢放的底图吧](./images/kippu.png)
